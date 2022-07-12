@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68e88bf6.css",
+    "main.js": "/static/js/main.eefa5259.js",
+    "static/media/imageFilterPageTop.png": "/static/media/imageFilterPageTop.9a3cf34268a31cf4cbf7.png",
+    "static/media/instagram-image9.png": "/static/media/instagram-image9.7baaf8bbb87b2e704e4e.png",
+    "static/media/instagram-image3.png": "/static/media/instagram-image3.1d347ebf79cf850546a5.png",
+    "static/media/instagram-image6.png": "/static/media/instagram-image6.b3cdf9104bf21d906ad4.png",
+    "static/media/instagram-image4.png": "/static/media/instagram-image4.5d856cdc20d210dfa718.png",
+    "static/media/instagram-image2.png": "/static/media/instagram-image2.86f0a128d1f78ebc6daf.png",
+    "static/media/instagram-image1.png": "/static/media/instagram-image1.7ddd221dd92e13e22176.png",
+    "static/media/instagram-image5.png": "/static/media/instagram-image5.8fa76b88586cc36628fb.png",
+    "static/media/instagram-image7.png": "/static/media/instagram-image7.a28347befa11dfa2907e.png",
+    "static/media/Poppins-Regular.woff2": "/static/media/Poppins-Regular.f7a2c435f8cd41e7223c.woff2",
+    "static/media/instagram-image8.png": "/static/media/instagram-image8.4d864f151a9086bcb08e.png",
+    "static/media/Poppins-SemiBold.woff2": "/static/media/Poppins-SemiBold.7a16d320d307a9a47666.woff2",
+    "static/media/Poppins-Light.woff2": "/static/media/Poppins-Light.4433a9756c4feddbedd0.woff2",
+    "static/media/Poppins-Bold.woff2": "/static/media/Poppins-Bold.33f6f6642aa6e750093c.woff2",
+    "static/media/Poppins-Medium.woff2": "/static/media/Poppins-Medium.2ae19a456b0ac9b7f346.woff2",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Cart.svg": "/static/media/Cart.4b1201f505e17e35a5f6a122e58b983b.svg",
+    "static/media/instagram-icon-grey.svg": "/static/media/instagram-icon-grey.3710faf1384e803abe9389a114695694.svg",
+    "static/media/ant-design_instagram-filled.svg": "/static/media/ant-design_instagram-filled.3ee49d66638193aab45866d7696c5bae.svg",
+    "static/media/Vector.svg": "/static/media/Vector.011a86a8a0a1cdabb223b514b2b8c5b3.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/editIcon.svg": "/static/media/editIcon.672a27ce9fabd7de0c2cec70a546dec2.svg",
+    "static/media/facebook-icon-grey.svg": "/static/media/facebook-icon-grey.ccb35e48140eaa5cac4601aef1627ab8.svg",
+    "static/media/ant-design_facebook-filled.svg": "/static/media/ant-design_facebook-filled.a27ae93b3e869ce204d9adfab0ceb981.svg",
+    "static/media/Sign-in.svg": "/static/media/Sign-in.2a05677f1ea599cf7da882b3e64fff3d.svg",
+    "static/media/Logo.svg": "/static/media/Logo.16c3c06fd580712cb424e30f277be717.svg",
+    "static/media/closeCartIcon.svg": "/static/media/closeCartIcon.60405a601e502d7cde92edc037e6a52e.svg",
+    "static/media/closeIcon.svg": "/static/media/closeIcon.7150770c5b98dfba65cb6b0a591db596.svg",
+    "main.68e88bf6.css.map": "/static/css/main.68e88bf6.css.map",
+    "main.eefa5259.js.map": "/static/js/main.eefa5259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e88bf6.css",
+    "static/js/main.eefa5259.js"
+  ]
+}
