@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.68e88bf6.css",
-    "main.js": "/static/js/main.eefa5259.js",
+    "main.css": "/static/css/main.1b9d04c9.css",
+    "main.js": "/static/js/main.efddc1cf.js",
     "static/media/imageFilterPageTop.png": "/static/media/imageFilterPageTop.9a3cf34268a31cf4cbf7.png",
     "static/media/instagram-image9.png": "/static/media/instagram-image9.7baaf8bbb87b2e704e4e.png",
     "static/media/instagram-image3.png": "/static/media/instagram-image3.1d347ebf79cf850546a5.png",
@@ -17,6 +17,7 @@
     "static/media/Poppins-Light.woff2": "/static/media/Poppins-Light.4433a9756c4feddbedd0.woff2",
     "static/media/Poppins-Bold.woff2": "/static/media/Poppins-Bold.33f6f6642aa6e750093c.woff2",
     "static/media/Poppins-Medium.woff2": "/static/media/Poppins-Medium.2ae19a456b0ac9b7f346.woff2",
+    "static/media/paypall.svg": "/static/media/paypall.be10c3646ca0a828f8bfcd4dcb9e68ed.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -26,18 +27,17 @@
     "static/media/Vector.svg": "/static/media/Vector.011a86a8a0a1cdabb223b514b2b8c5b3.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "static/media/editIcon.svg": "/static/media/editIcon.672a27ce9fabd7de0c2cec70a546dec2.svg",
     "static/media/facebook-icon-grey.svg": "/static/media/facebook-icon-grey.ccb35e48140eaa5cac4601aef1627ab8.svg",
     "static/media/ant-design_facebook-filled.svg": "/static/media/ant-design_facebook-filled.a27ae93b3e869ce204d9adfab0ceb981.svg",
     "static/media/Sign-in.svg": "/static/media/Sign-in.2a05677f1ea599cf7da882b3e64fff3d.svg",
     "static/media/Logo.svg": "/static/media/Logo.16c3c06fd580712cb424e30f277be717.svg",
     "static/media/closeCartIcon.svg": "/static/media/closeCartIcon.60405a601e502d7cde92edc037e6a52e.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.7150770c5b98dfba65cb6b0a591db596.svg",
-    "main.68e88bf6.css.map": "/static/css/main.68e88bf6.css.map",
-    "main.eefa5259.js.map": "/static/js/main.eefa5259.js.map"
+    "main.1b9d04c9.css.map": "/static/css/main.1b9d04c9.css.map",
+    "main.efddc1cf.js.map": "/static/js/main.efddc1cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.68e88bf6.css",
-    "static/js/main.eefa5259.js"
+    "static/css/main.1b9d04c9.css",
+    "static/js/main.efddc1cf.js"
   ]
 }
