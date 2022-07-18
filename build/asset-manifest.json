@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.de108db4.css",
-    "main.js": "/static/js/main.e10165ea.js",
+    "main.css": "/static/css/main.fc4d8a0d.css",
+    "main.js": "/static/js/main.0642218e.js",
     "static/media/imageFilterPageTop.png": "/static/media/imageFilterPageTop.9a3cf34268a31cf4cbf7.png",
     "static/media/instagram-image9.png": "/static/media/instagram-image9.7baaf8bbb87b2e704e4e.png",
     "static/media/instagram-image3.png": "/static/media/instagram-image3.1d347ebf79cf850546a5.png",
@@ -33,11 +33,11 @@
     "static/media/Logo.svg": "/static/media/Logo.16c3c06fd580712cb424e30f277be717.svg",
     "static/media/closeCartIcon.svg": "/static/media/closeCartIcon.60405a601e502d7cde92edc037e6a52e.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.7150770c5b98dfba65cb6b0a591db596.svg",
-    "main.de108db4.css.map": "/static/css/main.de108db4.css.map",
-    "main.e10165ea.js.map": "/static/js/main.e10165ea.js.map"
+    "main.fc4d8a0d.css.map": "/static/css/main.fc4d8a0d.css.map",
+    "main.0642218e.js.map": "/static/js/main.0642218e.js.map"
   },
   "entrypoints": [
-    "static/css/main.de108db4.css",
-    "static/js/main.e10165ea.js"
+    "static/css/main.fc4d8a0d.css",
+    "static/js/main.0642218e.js"
   ]
 }
